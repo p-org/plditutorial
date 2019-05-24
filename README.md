@@ -6,7 +6,7 @@
 - Akash Lal (Microsoft)
 - Shaz Qadeer (Facebook)
 
-We will present a full-day tutorial on the P framework for programming safe asynchronous systems, such as device drivers [7], distributed systems [1, 4], and autonomous robotics[2].
+We will present a full-day tutorial on the P framework for programming safe asynchronous systems, such as device drivers [7], distributed systems [1, 4], and autonomous robotics [2].
 The methodology and tools have been used extensively in Microsoft for shipping Windows device drivers 
 and Azure cloud services.
 
