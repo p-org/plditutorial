@@ -47,17 +47,17 @@ practical integration into the P language.
 ## Related Papers
 [1] **Reliable State Machines: A Framework for Programming Reliable Cloud Services**.
 Suvam Mukherjee, Nitin John Raj, Krishnan Govindraj, Pantazis Deligiannis, Chandramouleswaran Ravichandran, Akash Lal, Aseem Rastogi, and Raja Krishnaswamy.
-European Conference on Object-Oriented Programming (ECOOP), 2019. 
+In the *33rd European Conference on Object-Oriented Programming* (ECOOP), 2019. 
 
 [2] **[Compositional Programming and Testing of Dynamic Distributed Systems](http://people.eecs.berkeley.edu/~ankush/assets/papers/modp.pdf)**.
 Ankush Desai, Amar Phanishayee, Shaz Qadeer, and Sanjit Seshia.
-International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
+In the *33rd ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications* (OOPSLA), 2018.
 
 [3] **[DRONA: A Framework for Safe Distributed Mobile Robotics](https://people.eecs.berkeley.edu/~ankush/Papers/drona.pdf)**.
 Ankush Desai, Indranil Saha, Jianqiao Yang, Shaz Qadeer, and Sanjit A. Seshia.
-In Proceedings of the 8th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2017.
+In the *8th ACM/IEEE International Conference on Cyber-Physical Systems* (ICCPS), 2017.
 
-[4] **[Lasso Detection using Partial-State Caching](https://www.microsoft.com/en-us/research/publication/lasso-detection-using-partial-state-caching-2/)**. Rashmi Mudduluru, Pantazis Deligiannis, Ankush Desai, Akash Lal, Shaz Qadeer . In *Formal Methods in Computer-Aided Design* (FMCAD), 2017.
+[4] **[Lasso Detection using Partial-State Caching](https://www.microsoft.com/en-us/research/publication/lasso-detection-using-partial-state-caching-2/)**. Rashmi Mudduluru, Pantazis Deligiannis, Ankush Desai, Akash Lal, Shaz Qadeer . In the *17th International Conference on Formal Methods in Computer-Aided Design* (FMCAD), 2017.
 
 [5] **[Uncovering Bugs in Distributed Storage Systems During Testing (not in Production!)](https://www.usenix.org/node/194442)**. Pantazis Deligiannis, Matt McCutchen, Paul Thomson, Shuo Chen, Alastair F. Donaldson, John Erickson, Cheng Huang, Akash Lal, Rashmi Mudduluru, Shaz Qadeer and Wolfram Schulte. In the *14th USENIX Conference on File and Storage Technologies* (FAST), 2016.
 
@@ -65,8 +65,8 @@ In Proceedings of the 8th ACM/IEEE International Conference on Cyber-Physical Sy
 
 [7] **[Systematic Testing of Asynchronous Reactive Systems](http://people.eecs.berkeley.edu/~ankush/assets/papers/fse-desai.pdf)**.
 Ankush Desai, Shaz Qadeer, and Sanjit A. Seshia.
-In Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering (ESEC/FSE 2015). 
+In the *10th Joint Meeting on Foundations of Software Engineering* (ESEC/FSE 2015). 
 
 [8] **[P: Safe asynchronous event-driven programming](http://people.eecs.berkeley.edu/~ankush/assets/papers/p.pdf)**.
 Ankush Desai, Vivek Gupta, Ethan Jackson, Shaz Qadeer, Sriram Rajamani, and Damien Zufferey.
-In Proceedings of ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2013.
+In the *34th Annual ACM SIGPLAN Conference on Programming Language Design and Implementation* (PLDI), 2013.
