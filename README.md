@@ -1,10 +1,10 @@
 # Safe Asynchronous Programming: Methodology, Language, and Tools
 
 ### Presenters:
-- Pantazis Deligiannis (Microsoft Research)
-- Ankush Desai (UC, Berkeley)
-- Akash Lal (Microsoft Research)
-- Shaz Qadeer (Facebook)
+- [Pantazis Deligiannis](http://pdeligia.github.io) (Microsoft Research)
+- [Ankush Desai](http://people.eecs.berkeley.edu/~ankush) (UC, Berkeley)
+- [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl) (Microsoft Research)
+- [Shaz Qadeer](https://pldi19.sigplan.org/profile/shazqadeer1) (Facebook)
 
 We will present a full-day tutorial on the [P](https://github.com/p-org/P) and [P#](https://github.com/p-org/PSharp) frameworks
 for programming safe asynchronous systems, such as device drivers [8], distributed systems [1, 2, 5], and autonomous robotics [3].
