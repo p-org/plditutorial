@@ -1,14 +1,14 @@
 # Safe Asynchronous Programming: Methodology, Language, and Tools
 
 ### Presenters:
-- Pantazis Deligiannis (Microsoft)
+- Pantazis Deligiannis (Microsoft Research)
 - Ankush Desai (UC, Berkeley)
-- Akash Lal (Microsoft)
+- Akash Lal (Microsoft Research)
 - Shaz Qadeer (Facebook)
 
-We will present a full-day tutorial on the P framework for programming safe asynchronous systems, such as device drivers [8], distributed systems [1, 2, 5], and autonomous robotics [3].
-The methodology and tools have been used extensively in Microsoft for shipping Windows device drivers 
-and Azure cloud services.
+We will present a full-day tutorial on the [P](https://github.com/p-org/P) and [P#](https://github.com/p-org/PSharp) frameworks
+for programming safe asynchronous systems, such as device drivers [8], distributed systems [1, 2, 5], and autonomous robotics [3].
+The methodology and tools have been used extensively in Microsoft for shipping Windows device drivers and Azure cloud services.
 
 The tutorial is in five parts:
 
@@ -20,12 +20,12 @@ This section will discuss Heisenbugs and introduce the overall programming metho
 	
 ## P Programming Language
 	
-This section will introduce the core P language including syntax and semantics of communicating state machines, 
+This section will introduce the core [P language](https://github.com/p-org/P) including syntax and semantics of communicating state machines, 
 event handlers, and specifications for safety and liveness properties.
 
 ## P# Runtime
 	
-This section will present P# [6], a role model for runtimes implementing P that provides:
+This section will present [P#](https://github.com/p-org/PSharp) [6], a role model for runtimes implementing P that provides:
 (1) systematic testing, 
 (2) efficient execution, 
 (3) seamless interop with foreign code in .NET.
@@ -45,7 +45,7 @@ The presentation will include both the theory of compositional refinement underl
 practical integration into the P language.
 
 ## Related Papers
-[1] **Reliable State Machines: A Framework for Programming Reliable Cloud Services**.
+[1] **[Reliable State Machines: A Framework for Programming Reliable Cloud Services](https://arxiv.org/abs/1902.09502)**.
 Suvam Mukherjee, Nitin John Raj, Krishnan Govindraj, Pantazis Deligiannis, Chandramouleswaran Ravichandran, Akash Lal, Aseem Rastogi, and Raja Krishnaswamy.
 In the *33rd European Conference on Object-Oriented Programming* (ECOOP), 2019. 
 
