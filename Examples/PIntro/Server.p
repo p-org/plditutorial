@@ -22,6 +22,7 @@ machine ServerMachine
       client = payload.source;
       reqId = payload.id;
       send helper, eProcessReq, (id = payload.id, val = payload.val);
+      goto GetResponseFromHelper;
     }
   }
 
